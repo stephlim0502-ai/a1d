@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.titles("My Apps")
+st.title("My Apps")
 if st.button("Green"):
   st.info("Hello, my app!")
